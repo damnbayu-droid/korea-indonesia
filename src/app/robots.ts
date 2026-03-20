@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
             allow: '/',
             disallow: ['/private/'],
         },
-        sitemap: 'https://southkoreaindonesianvisa.online/sitemap.xml',
+        sitemap: 'https://southkoreaindonesiavisa.online/sitemap.xml',
     };
 }

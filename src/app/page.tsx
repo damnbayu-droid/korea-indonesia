@@ -1109,7 +1109,7 @@ export default function Home() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-slate-800">{t.contact.address}</h4>
-                      <p className="text-slate-600">Bali, Indonesia</p>
+                      <p className="text-slate-600">Seoul, South Korea</p>
                       <a
                         href="https://maps.app.goo.gl/N87NgLvE4Ma3qREK7"
                         target="_blank"
@@ -1329,7 +1329,7 @@ export default function Home() {
                     +62 85727041992
                   </a>
                 </li>
-                <li>Bali, Indonesia</li>
+                <li>Seoul, South Korea</li>
               </ul>
             </div>
 
@@ -1370,12 +1370,12 @@ export default function Home() {
             name: "Indonesia Visa Services for South Korean Citizens",
             description:
               "Professional Indonesia visa services for South Korean citizens. Tourist visa, business visa, digital nomad visa, and investment KITAS services.",
-            url: "https://southkoreaindonesianvisa.online",
-            logo: "https://southkoreaindonesianvisa.online/logo.svg",
+            url: "https://southkoreaindonesiavisa.online",
+            logo: "https://southkoreaindonesiavisa.online/logo.svg",
             address: {
               "@type": "PostalAddress",
-              addressLocality: "Bali",
-              addressCountry: "ID",
+              addressLocality: "Seoul",
+              addressCountry: "KR",
             },
             contactPoint: {
               "@type": "ContactPoint",

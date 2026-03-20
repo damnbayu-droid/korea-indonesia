@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://southkoreaindonesianvisa.online"),
+  metadataBase: new URL("https://southkoreaindonesiavisa.online"),
   title: "Gold Visa Indonesia from Korea | Indonesian Visa from Korea - 인도네시아 비자",
   description: "Expert Indonesian Visa services from Korea. We provide Gold Visa, Tourist Visa, Business Visa. 한국인을 위한 전문 인도네시아 비자 서비스.",
   keywords: [
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Gold Visa Indonesia from Korea | Indonesian Visa from Korea",
     description: "Expert Indonesian Visa services from Korea. We provide Gold Visa, Tourist Visa, Business Visa. 한국인을 위한 전문 인도네시아 비자.",
-    url: "https://southkoreaindonesianvisa.online",
+    url: "https://southkoreaindonesiavisa.online",
     siteName: "Indonesia Visa for Koreans",
     type: "website",
     locale: "ko_KR",
@@ -61,10 +61,10 @@ export const metadata: Metadata = {
     images: ["/images/hero-bali.png"],
   },
   alternates: {
-    canonical: "https://southkoreaindonesianvisa.online",
+    canonical: "https://southkoreaindonesiavisa.online",
     languages: {
-      "ko-KR": "https://southkoreaindonesianvisa.online",
-      "en-US": "https://southkoreaindonesianvisa.online?lang=en",
+      "ko-KR": "https://southkoreaindonesiavisa.online",
+      "en-US": "https://southkoreaindonesiavisa.online?lang=en",
     },
   },
   robots: {
@@ -88,8 +88,8 @@ export default function RootLayout({
   return (
     <html lang="ko" suppressHydrationWarning>
       <head>
-        <meta name="geo.region" content="ID" />
-        <meta name="geo.placename" content="Bali" />
+        <meta name="geo.region" content="KR" />
+        <meta name="geo.placename" content="Seoul" />
         <meta name="author" content="Indonesian Visas Agency" />
         <link rel="preconnect" href="https://indonesianvisas.com" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />

@@ -545,6 +545,7 @@ export default function Home() {
               rel="noopener noreferrer"
               className="flex items-center gap-2"
             >
+              <img src="/Favicon.webp" alt={t.header.logo} className="h-8 w-8 object-contain" />
               <div>
                 <span className="font-bold text-slate-800 text-lg">{t.header.logo}</span>
                 <span className="hidden sm:inline text-xs text-slate-500 ml-2">{t.header.tagline}</span>
@@ -1285,6 +1286,7 @@ export default function Home() {
             {/* Brand */}
             <div className="sm:col-span-2 lg:col-span-1">
               <div className="flex items-center gap-2 mb-4">
+                <img src="/Favicon.webp" alt={t.header.logo} className="h-6 w-6 object-contain" />
                 <span className="font-bold text-lg">{t.header.logo}</span>
               </div>
               <p className="text-slate-400 text-sm leading-relaxed">

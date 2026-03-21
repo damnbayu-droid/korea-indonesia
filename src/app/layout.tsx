@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Indonesian Visas Agency" }],
   icons: {
-    icon: "/logo.svg",
+    icon: "/Favicon.webp",
   },
   openGraph: {
     title: "Gold Visa Indonesia from Korea | Indonesian Visa from Korea",
